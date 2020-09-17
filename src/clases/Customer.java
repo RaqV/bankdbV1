@@ -12,6 +12,8 @@ import utilidades.Util;
  * @author rvalv
  */
 public class Customer {
+    
+    ///////AHORA SI EN LA RAMA SI PERO EN EL PRINCIPAL BIEN
      //Atributos.
     private long id;
     private String city;
