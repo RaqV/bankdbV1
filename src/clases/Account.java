@@ -15,7 +15,7 @@ import utilidades.Util;
  */
 
 public class Account {
-    //RAQUEL ESTAS EN LA RAMA///////
+    // ENF LA RAMA 
     //Atributos.
     private long id;
     private double balance;
